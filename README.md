@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro Armas
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me aarmased@gmail.com
 
